@@ -1,0 +1,11 @@
+D:\Learnings\AzureSelenium\AzureSelenium\bin\Debug\chromedriver.exe
+D:\Learnings\AzureSelenium\AzureSelenium\bin\Debug\AzureSelenium.dll
+D:\Learnings\AzureSelenium\AzureSelenium\bin\Debug\AzureSelenium.pdb
+D:\Learnings\AzureSelenium\AzureSelenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Learnings\AzureSelenium\AzureSelenium\bin\Debug\WebDriver.dll
+D:\Learnings\AzureSelenium\AzureSelenium\bin\Debug\WebDriver.Support.dll
+D:\Learnings\AzureSelenium\AzureSelenium\bin\Debug\WebDriver.xml
+D:\Learnings\AzureSelenium\AzureSelenium\bin\Debug\WebDriver.Support.xml
+D:\Learnings\AzureSelenium\AzureSelenium\obj\Debug\AzureSelenium.csprojResolveAssemblyReference.cache
+D:\Learnings\AzureSelenium\AzureSelenium\obj\Debug\AzureSelenium.dll
+D:\Learnings\AzureSelenium\AzureSelenium\obj\Debug\AzureSelenium.pdb
