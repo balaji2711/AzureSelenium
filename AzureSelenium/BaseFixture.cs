@@ -41,7 +41,7 @@ namespace AzureSelenium
                 case "Chrome":
                     var chromeOptions = new ChromeOptions();
                     chromeOptions.AddArguments("headless");
-                    driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), chromeOptions);                    
+                    driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), chromeOptions);
                     break;
                 case "Firefox":
                     driver = new FirefoxDriver();
