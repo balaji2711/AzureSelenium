@@ -40,7 +40,7 @@ namespace AzureSelenium
             {
                 case "Chrome":
                     var chromeOptions = new ChromeOptions();
-                    chromeOptions.AddArguments("headless");
+                    //chromeOptions.AddArguments("headless");
                     driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), chromeOptions);
                     break;
                 case "Firefox":
